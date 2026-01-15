@@ -15,3 +15,26 @@ The project combines:
 - Behavioral segmentation (value & engagement)
 - Prescriptive business recommendations
 - This structure mirrors how Product Analytics and Data Science teams support growth and retention decisions in real-world companies.
+
+## Data Source
+Dataset:
+
+E-commerce Events History (October 2019)
+
+Source: Kaggle – Multi-category online retail platform
+
+Granularity: Event-level (view, cart, purchase)
+
+Key columns:
+
+| Column        | Description              |
+| ------------- | ------------------------ |
+| event_time    | Timestamp of user action |
+| event_type    | view / cart / purchase   |
+| user_id       | Unique user identifier   |
+| user_session  | Session identifier       |
+| product_id    | Product identifier       |
+| category_code | Product category         |
+| price         | Transaction price        |
+
+This analysis focuses on a one-month window to study early activation, short-term retention, and churn dynamics. While longer horizons enable seasonality analysis, this time frame is sufficient to identify behavioral drivers of attrition and high-leverage product interventions.
