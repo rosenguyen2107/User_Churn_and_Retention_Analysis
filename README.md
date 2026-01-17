@@ -298,9 +298,9 @@ Users who do not quickly discover relevant products, build intent, and form habi
 
 From a product perspective, the most effective retention levers are therefore:
 
-1. Reducing time to first cart through better onboarding, recommendations, and search relevance.
-2. Increasing early session depth and category exploration to accelerate learning and perceived value.
-3. Triggering re-engagement before recency crosses the critical threshold identified by the model.
+* Reducing time to first cart through better onboarding, recommendations, and search relevance.
+* Increasing early session depth and category exploration to accelerate learning and perceived value.
+* Triggering re-engagement before recency crosses the critical threshold identified by the model.
 
 In short, improving retention is less about pushing more promotions, and more about compressing the time it takes for users to experience their first meaningful success in the product.
 
